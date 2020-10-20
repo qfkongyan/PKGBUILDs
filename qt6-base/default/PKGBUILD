@@ -5,7 +5,7 @@
 # you also find the URL of a binary repository.
 
 pkgname=qt6-base
-_qtver=6.0.0-alpha
+_qtver=6.0.0-beta1
 pkgver=${_qtver/-/}
 pkgrel=1
 arch=(x86_64)
